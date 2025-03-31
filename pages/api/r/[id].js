@@ -1,4 +1,3 @@
-
 import dbConnect from '../../../lib/dbConnect';
 import QrCode from '../../../models/QrCode';
 
